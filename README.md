@@ -1,1 +1,1 @@
-Contains Labs and Homeworks I did while completing this course
+Contains Labs and Homework I did while completing this course
